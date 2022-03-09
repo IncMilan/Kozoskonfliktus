@@ -17,6 +17,8 @@ public class Kozos {
     public static void main(String[] args) {
         String nev1,nev2;
         nev2="Ádám";
+        nev1="Milán";
+
     }
     
 }
